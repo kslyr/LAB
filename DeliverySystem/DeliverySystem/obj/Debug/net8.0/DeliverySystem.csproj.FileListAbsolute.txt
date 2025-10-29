@@ -1,0 +1,14 @@
+D:\C#\DeliverySystem\DeliverySystem\bin\Debug\net8.0\DeliverySystem.exe
+D:\C#\DeliverySystem\DeliverySystem\bin\Debug\net8.0\DeliverySystem.deps.json
+D:\C#\DeliverySystem\DeliverySystem\bin\Debug\net8.0\DeliverySystem.runtimeconfig.json
+D:\C#\DeliverySystem\DeliverySystem\bin\Debug\net8.0\DeliverySystem.dll
+D:\C#\DeliverySystem\DeliverySystem\bin\Debug\net8.0\DeliverySystem.pdb
+D:\C#\DeliverySystem\DeliverySystem\obj\Debug\net8.0\DeliverySystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\DeliverySystem\DeliverySystem\obj\Debug\net8.0\DeliverySystem.AssemblyInfoInputs.cache
+D:\C#\DeliverySystem\DeliverySystem\obj\Debug\net8.0\DeliverySystem.AssemblyInfo.cs
+D:\C#\DeliverySystem\DeliverySystem\obj\Debug\net8.0\DeliverySystem.csproj.CoreCompileInputs.cache
+D:\C#\DeliverySystem\DeliverySystem\obj\Debug\net8.0\DeliverySystem.dll
+D:\C#\DeliverySystem\DeliverySystem\obj\Debug\net8.0\refint\DeliverySystem.dll
+D:\C#\DeliverySystem\DeliverySystem\obj\Debug\net8.0\DeliverySystem.pdb
+D:\C#\DeliverySystem\DeliverySystem\obj\Debug\net8.0\DeliverySystem.genruntimeconfig.cache
+D:\C#\DeliverySystem\DeliverySystem\obj\Debug\net8.0\ref\DeliverySystem.dll
