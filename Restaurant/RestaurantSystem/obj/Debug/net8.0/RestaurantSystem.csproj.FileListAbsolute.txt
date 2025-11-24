@@ -1,0 +1,15 @@
+D:\Git\LAB\Restaurant\RestaurantSystem\bin\Debug\net8.0\RestaurantSystem.exe
+D:\Git\LAB\Restaurant\RestaurantSystem\bin\Debug\net8.0\RestaurantSystem.deps.json
+D:\Git\LAB\Restaurant\RestaurantSystem\bin\Debug\net8.0\RestaurantSystem.runtimeconfig.json
+D:\Git\LAB\Restaurant\RestaurantSystem\bin\Debug\net8.0\RestaurantSystem.dll
+D:\Git\LAB\Restaurant\RestaurantSystem\bin\Debug\net8.0\RestaurantSystem.pdb
+D:\Git\LAB\Restaurant\RestaurantSystem\obj\Debug\net8.0\RestaurantSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\LAB\Restaurant\RestaurantSystem\obj\Debug\net8.0\RestaurantSystem.AssemblyInfoInputs.cache
+D:\Git\LAB\Restaurant\RestaurantSystem\obj\Debug\net8.0\RestaurantSystem.AssemblyInfo.cs
+D:\Git\LAB\Restaurant\RestaurantSystem\obj\Debug\net8.0\RestaurantSystem.csproj.CoreCompileInputs.cache
+D:\Git\LAB\Restaurant\RestaurantSystem\obj\Debug\net8.0\RestaurantSystem.sourcelink.json
+D:\Git\LAB\Restaurant\RestaurantSystem\obj\Debug\net8.0\RestaurantSystem.dll
+D:\Git\LAB\Restaurant\RestaurantSystem\obj\Debug\net8.0\refint\RestaurantSystem.dll
+D:\Git\LAB\Restaurant\RestaurantSystem\obj\Debug\net8.0\RestaurantSystem.pdb
+D:\Git\LAB\Restaurant\RestaurantSystem\obj\Debug\net8.0\RestaurantSystem.genruntimeconfig.cache
+D:\Git\LAB\Restaurant\RestaurantSystem\obj\Debug\net8.0\ref\RestaurantSystem.dll
